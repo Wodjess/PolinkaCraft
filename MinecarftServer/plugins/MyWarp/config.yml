@@ -1,0 +1,19 @@
+# Configuration of MyWarp 
+# 
+# Please note that editing the configurations while the server is running is not recommended.
+
+OnlyOp: false
+PlaySoundOnTeleport: true
+PlayParticleOnTeleport: true
+WarpSigns: true
+CancelTeleportOnMove: false
+WarpCooldown: 5
+TeleportDelay: 0
+Vault: false
+WarpCosts:
+  Enabled: false
+  DefaultValue: 1000.0
+  Warp: 10.0
+  CreateWarp: 100.0
+  DeleteWarp: 50.0
+  ListWarps: 5.0

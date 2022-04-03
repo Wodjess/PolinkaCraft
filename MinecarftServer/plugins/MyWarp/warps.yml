@@ -1,0 +1,81 @@
+# Warps of MyWarp 
+# 
+# Please note that editing the configurations while the server is running is not recommended.
+
+дом:
+  name: Дом
+  creator: Wodjess
+  world: world
+  x: -181.96417370689198
+  y: 68.0
+  z: 225.7745292031968
+деревня:
+  name: деревня
+  creator: piska_bobra
+  world: world
+  x: -338.8244468130649
+  y: 69.9375
+  z: 115.37255921971705
+ковер_самолет:
+  name: ковер_самолет
+  creator: piska_bobra
+  world: world
+  x: -494.85127332655594
+  y: 74.0
+  z: -392.37275697052894
+искатель:
+  name: искатель
+  creator: piska_bobra
+  world: world
+  x: -578.9195755652304
+  y: 81.0
+  z: 355.5151948565366
+прятки-даши:
+  name: прятки-даши
+  creator: piska_bobra
+  world: world
+  x: -587.8338813923556
+  y: 71.0
+  z: 374.99224120797334
+хата_на_тата:
+  name: хата_на_тата
+  creator: piska_bobra
+  world: world
+  x: -106.2600630453126
+  y: 78.0
+  z: 380.69996221539026
+ферма:
+  name: ферма
+  creator: piska_bobra
+  world: world
+  x: -86.04058327407562
+  y: 64.0
+  z: 115.78173938839197
+tnt_run:
+  name: tnt_run
+  creator: Wodjess
+  world: world
+  x: -648.2936222098855
+  y: 152.0
+  z: 5.560884589948025
+деревня2:
+  name: Деревня2
+  creator: Wodjess
+  world: world
+  x: -917.196167205014
+  y: 62.9375
+  z: 611.3848081878966
+spawn:
+  name: Spawn
+  creator: Wodjess
+  world: world
+  x: -1064.5930227748238
+  y: 172.0
+  z: -1302.4270531848172
+кокакола:
+  name: кокакола
+  creator: piska_bobra
+  world: LC
+  x: -81.73724348400927
+  y: 72.0
+  z: 139.30000001192093
